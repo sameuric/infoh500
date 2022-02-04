@@ -8,8 +8,11 @@ from skimage.feature import peak_local_max
 from skimage.io import imread
 from skimage import img_as_ubyte
 import skimage.filters.rank as skr
-from skimage.morphology import disk
+from skimage.morphology import disk,watershed
 from skimage.measure import label
+import numpy as np
+from matplotlib import pyplot as plt
+from skimage.segmentation import mark_boundaries, watershed
 
 
 # Read the image in grayscale and
