@@ -21,13 +21,5 @@ This repo is composed of three exercises, each of them in their corresponding Py
    The image below is a slice of a brain MRI with a large tumour in it. The goal of this exercise is to create an algorithm to automatically segment the tumour.
 
 
-Please refer to [https://odebeir.github.io/info-h-500/](https://odebeir.github.io/info-h-500/) for more information.
-
-
-
-
-# infoh500
-
-Please see p1.py for project 1  
-Please see p2.py for project 2  
-Please see p3.py for project 3  
+Please refer to [https://odebeir.github.io/info-h-500/](https://odebeir.github.io/info-h-500/) for more information.  
+© Python codes in this repo are the property of Sacha Meurice and should not be copied without written permission.
